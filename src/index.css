@@ -1,0 +1,48 @@
+.card {
+  background-image: linear-gradient(to right, black,brown , black);
+  color: white
+  
+}
+
+button{
+  font-family: 'Courier New', Courier, monospace;
+  background-image: linear-gradient(to right, grey, white, grey);
+  padding: 10px;
+  margin-right: 30px;
+  margin-left:30px;
+  width: 120px;
+}
+
+body{
+  background-image: linear-gradient(to right, black,brown , black);
+  padding-left: 15px;
+  padding-right: 15px;
+  text-align: center;
+  color: white;
+}
+
+img{
+  width: 500px;
+  height: auto;
+  padding-top: 5%;
+}
+
+.poopy{
+  display: none;
+}
+
+.container-fluid{
+  border: 2px solid red ;
+  background-image: linear-gradient(to right, black, black, black, black, black);
+  padding-left: 15px;
+  padding-right: 15px;
+  text-align: center;
+}
+
+.card-text{
+  border: 2px solid black;
+  background-image: linear-gradient(to right, black, grey, black);
+  color: white;
+  text-align: center;
+  
+}
